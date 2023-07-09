@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .container {
+    max-width: 1220px;
+    margin: 0 auto;
+  }
+  img {
+    max-width: 100%;
+  }
+  .title {
+    text-align: center;
+  }
+  section{
+    background-color: #3ec2c9;
+  }
