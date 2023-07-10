@@ -18,6 +18,10 @@
   .title {
     text-align: center;
   }
-  section{
-    background-color: #3ec2c9;
-  }
+.catalog{
+  display: flex;
+}
+.card{
+  margin: 0 10px;
+  width: 20%;
+}
