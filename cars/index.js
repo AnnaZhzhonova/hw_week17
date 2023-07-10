@@ -13,7 +13,7 @@ const data = [
       brand: 'Mercedes-Benz',
       doors: 4,
       price: 2800000,
-      image: 'https://www.mercedes-benz-mena.com/en/passengercars/mercedes-benz-cars/models/e-class/sedan-w213-fl/explore/_jcr_content/notificationboxes/notificationbox/image.MQ6.12.20211013084329.jpeg'
+      image: 'http://conceptcarz.com/images/Mercedes-Benz/2012-Mercedes-Benz-CL-Class-Image-045-1600.jpg'
     },
       {
       id: 3,
